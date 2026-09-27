@@ -558,7 +558,7 @@
       "assets": "owned",
       "upstream": "https://github.com/cacuracaptors/OpenLara-miyoomini/releases",
       "image": "https://raw.githubusercontent.com/cacuracaptors/OpenLara-miyoomini/c4c3afb38ff42ab3d1853ef81505967d168c32ec/docs/images/cover.png",
-      "notes": "OpenLara engine with a rebuilt dual-core software renderer; Tomb Raider 1 only. Supply GAME.GOG and the 02.mp3 to 10.mp3 music files from the GOG Tomb Raider 1+2+3 install (the game data is extracted from GAME.GOG on first start), or the DATA and FMV folders from the original CD.",
+      "notes": "OpenLara engine with a rebuilt dual-core software renderer; Tomb Raider 1 only. Requires the GOG version (Tomb Raider 1+2+3): supply GAME.GOG (required, the game data is extracted from it on first start) and, optionally, the 02.mp3 to 10.mp3 music files.",
       "porter": ["cacuracaptors"]
     }
   ]
