@@ -588,7 +588,7 @@
       "assets": "free",
       "upstream": "https://github.com/snyderman3000/panelattack-miyoo/releases",
       "image": "https://raw.githubusercontent.com/snyderman3000/panelattack-miyoo/fde124e6e23fec8cb4cefd11d2df321a74811303/docs/cover.png",
-      "notes": "Unofficial port of the Tetris Attack clone: endless, puzzles, time attack, vs CPU. Online play is off for now. Installs to Ports.",
+      "notes": "Unofficial, modified port of Panel Attack by the Panel Attack team (panelattack.com); not supported by them, so report bugs to the port's GitHub. Endless, puzzles, time attack, vs CPU. Online play is off for now. Installs to Ports.",
       "porter": ["snyderman3000"]
     },
     {
