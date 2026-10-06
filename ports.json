@@ -560,6 +560,16 @@
       "image": "https://raw.githubusercontent.com/cacuracaptors/OpenLara-miyoomini/c4c3afb38ff42ab3d1853ef81505967d168c32ec/docs/images/cover.png",
       "notes": "OpenLara engine with a rebuilt dual-core software renderer; Tomb Raider 1 only. Requires the GOG version (Tomb Raider 1+2+3): supply GAME.GOG (required, the game data is extracted from it on first start) and, optionally, the 02.mp3 to 10.mp3 music files.",
       "porter": ["cacuracaptors"]
+    },
+    {
+      "name": "Miyoo Better Favorites",
+      "categories": ["app"],
+      "status": "playable",
+      "assets": "free",
+      "upstream": "https://github.com/Architeg/miyoo-better-favorites/releases",
+      "image": "https://raw.githubusercontent.com/Architeg/miyoo-better-favorites/main/assets/game-list.jpg",
+      "notes": "Favorites grouped by console, scrolling titles and optional Home access/GameSwitcher return. Use the included computer installer. Tested on Mini Plus with Onion 4.3.1-1; other devices unverified.",
+      "porter": ["Architeg"]
     }
   ]
 }
