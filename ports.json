@@ -567,7 +567,7 @@
       "status": "playable",
       "assets": "free",
       "upstream": "https://github.com/Architeg/miyoo-better-favorites/releases",
-      "image": "https://raw.githubusercontent.com/Architeg/miyoo-better-favorites/main/assets/game-list.jpg",
+      "image": "https://raw.githubusercontent.com/Architeg/miyoo-better-favorites/5a2e26f5bd2663d602d7cfbe5b779014b7a437b7/assets/game-list.jpg",
       "notes": "Favorites grouped by console, scrolling titles and optional Home access/GameSwitcher return. Use the included computer installer. Tested on Mini Plus with Onion 4.3.1-1; other devices unverified.",
       "porter": ["Architeg"]
     }
